@@ -1,0 +1,22 @@
+install.packages(c(
+  "devtools",
+  "terra",
+  "tidyterra",
+  "osmdata",
+  "sf",
+  "googledrive",
+  "dplyr",
+  "ggplot2",
+  "lubridate",
+  "sp",
+  "leaflet",
+  "grDevices",
+  "colorRamps",
+  "colorspace",
+  "elevatr",
+  "reticulate",
+  "sfdep",
+  "spdep", 
+  "tidyr",
+  "viridis"
+))
