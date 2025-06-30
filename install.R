@@ -18,5 +18,6 @@ install.packages(c(
   "sfdep",
   "spdep", 
   "tidyr",
-  "viridis"
-))
+  "viridis",
+  "tidyverse"
+), repos = "https://cloud.r-project.org")
